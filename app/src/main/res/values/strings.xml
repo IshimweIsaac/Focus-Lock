@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Focus Lock</string>
+    <string name="accessibility_description">Monitors foreground apps to block distractions during locked hours.</string>
+</resources>

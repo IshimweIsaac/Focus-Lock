@@ -1,0 +1,6 @@
+{
+  "name": "Focus Lock",
+  "description": "Blocks distracting apps during scheduled hours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
